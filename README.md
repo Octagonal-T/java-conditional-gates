@@ -1,3 +1,3 @@
 # Java logic gates
 
-Logic gates implemented in Java.
+Logical gates implemented in Java.
